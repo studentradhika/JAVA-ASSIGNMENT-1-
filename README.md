@@ -1,10 +1,15 @@
 # Java Programming Assignment 1
 
 Banking Application – Account Management System
+
 Name: RADHIKA
+
 Roll No.: 2401010094
+
 Course: Java Programming
+
 Programme: B.Tech CSE Core
+
 Session: 2025-26
 
 # Project Description
